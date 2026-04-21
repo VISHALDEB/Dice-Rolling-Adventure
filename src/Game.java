@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class Game {
     private Dice dice1;
